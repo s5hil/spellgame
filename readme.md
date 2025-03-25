@@ -15,8 +15,8 @@ This is a web-based spelling bee game where users listen the pronunciation and d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/s5hil/spell.git
-cd spell
+git clone https://github.com/s5hil/spellgame.git
+cd spellgame
 ```
 
 2. Install dependencies:
